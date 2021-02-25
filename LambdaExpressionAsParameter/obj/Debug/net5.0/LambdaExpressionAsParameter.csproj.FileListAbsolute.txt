@@ -1,0 +1,16 @@
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\LambdaExpressionAsParameter.exe
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\LambdaExpressionAsParameter.deps.json
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\LambdaExpressionAsParameter.runtimeconfig.json
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\LambdaExpressionAsParameter.runtimeconfig.dev.json
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\LambdaExpressionAsParameter.dll
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\ref\LambdaExpressionAsParameter.dll
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\bin\Debug\net5.0\LambdaExpressionAsParameter.pdb
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.csprojAssemblyReference.cache
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.AssemblyInfoInputs.cache
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.AssemblyInfo.cs
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.csproj.CoreCompileInputs.cache
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.dll
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\ref\LambdaExpressionAsParameter.dll
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.pdb
+C:\Repos\LambdaExpressionAsParameter\LambdaExpressionAsParameter\obj\Debug\net5.0\LambdaExpressionAsParameter.genruntimeconfig.cache
