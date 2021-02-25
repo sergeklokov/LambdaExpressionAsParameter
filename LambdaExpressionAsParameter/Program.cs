@@ -68,6 +68,13 @@ namespace LambdaExpressionAsParameter
             // Part 4: use parameters with a statement body.
             Func<int, int> func4 = (int x) => { return x + 1; };
             Console.WriteLine("FUNC4: {0}", func4.Invoke(200));
+
+
+
+            // Use multiple parameters.
+            Func<int, int, int> funcMultiply = (x, y) => x * y;
+            // ... No need to call Invoke(), just call lambda directly.
+            Console.WriteLine("RESULT: {0}", funcMultiply(20, 2));
         }
     }
 }
